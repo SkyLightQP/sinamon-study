@@ -8,4 +8,4 @@
 - style prop을 이용해 CSS Style 적용하기
 - interface를 이용해 컴포넌트 prop 구조 만들기
 
-  을(를) 다룹니다.
+을(를) 다룹니다.
