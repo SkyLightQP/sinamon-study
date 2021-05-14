@@ -1,3 +1,5 @@
 express/**/node_modules
+express/**/dist
 
 react/**/node_modules
+react/**/build
