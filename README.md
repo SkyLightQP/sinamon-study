@@ -4,8 +4,8 @@
 
 ## 주제
 
-- React (frontend)
-- Express (backend)
+- [React (frontend)](./react)
+- [Express (backend)](./express)
 
 ## 수정과
 
