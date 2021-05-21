@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { setInterval } from "timers";
+
 import Text from "./Text";
 
 const App: React.FC = () => {
